@@ -56,11 +56,6 @@ https://help.syncfusion.com/chart-sdk/blazor/maps/markers#marker-clustering
 dotnet restore
 dotnet run
 ```
-
-## Project Structure
-
-`Client/Pages/Index.razor` — Contains the primary Syncfusion Maps implementation, marker-clustering configuration, marker-template definitions, cluster customization logic, and marker-group rendering.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
